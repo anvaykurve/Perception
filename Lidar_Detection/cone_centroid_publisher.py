@@ -1,7 +1,7 @@
 import rclpy
 from rclpy.node import Node
 from sensor_msgs.msg import PointCloud
-from geometry_msgs.msg import Point32
+from geometryrviz2_msgs.msg import Point32
 import numpy as np
 from sklearn.cluster import DBSCAN
 
