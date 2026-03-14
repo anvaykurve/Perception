@@ -36,6 +36,7 @@ Terminal 3
 rviz2
 ```
 Teminal 4
-```ros2 topic hz /cone_centroids
+```
+ros2 topic hz /cone_centroids
 ```
 
